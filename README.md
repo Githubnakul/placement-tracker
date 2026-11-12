@@ -2,6 +2,10 @@
 
 A local application for tracking job and internship applications, built with Python, Streamlit and SQLite.
 
+## Preview
+
+![Placement Tracker dashboard](screenshots/dashboard.png)
+
 ## Features
 
 - Add applications with a company, role, status and deadline.
