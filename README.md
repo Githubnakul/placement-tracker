@@ -4,7 +4,16 @@ A local application for tracking job and internship applications, built with Pyt
 
 ## Preview
 
-![Placement Tracker dashboard](screenshots/dashboard.png)
+Screenshots use fictional demo applications.
+
+### Dashboard
+![Application dashboard](screenshots/dashboard.png)
+
+### Search, Filters and Status Chart
+![Application insights](screenshots/insights.png)
+
+### Upcoming Deadlines
+![Upcoming application deadlines](screenshots/deadlines.png)
 
 ## Features
 
