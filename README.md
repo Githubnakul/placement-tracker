@@ -60,6 +60,13 @@ placement-tracker/
 └── README.md
 ```
 
+## Live Demo
+
+[Try the Placement Tracker](https://nakul-placement-tracker.streamlit.app/)
+
+The public demo uses fictional, session-only data.
+The local version uses SQLite to save applications between restarts.
+
 ## Data and Privacy
 
 Application data stays in the local SQLite database.
